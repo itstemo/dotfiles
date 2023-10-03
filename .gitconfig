@@ -2,3 +2,6 @@
 [user]
 	name = Temo Ojeda
 	email = itstemo@users.noreply.github.com
+
+[push]
+    autoSetupRemote = true
